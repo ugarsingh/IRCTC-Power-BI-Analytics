@@ -315,16 +315,3 @@ The project focuses on **data modeling, DAX, visualization, and business-oriente
 
 ---
 
-## 👨‍💻 Author
-
-**Sukalyan Manna**
-
-B.Tech — Electronics & Communication Engineering
-
-Interested in **Software Engineering, Backend Development, Cloud, Data Analytics and Business Intelligence**.
-
----
-
-## 📌 Disclaimer
-
-This project is created for **educational and portfolio purposes**. The analysis represents the supplied dataset and should not be interpreted as official IRCTC operational or financial reporting.
