@@ -297,38 +297,6 @@ IRCTC-Power-BI-Analytics/
     └── data_model.md
 ```
 
----
-
-## 📷 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Screenshots/01-executive-overview.png)
-
-### Revenue Analysis
-
-![Revenue Analysis](Screenshots/02-revenue-analysis.png)
-
-### Booking & Demand
-
-![Booking & Demand](Screenshots/03-booking-demand.png)
-
-### Train Operations
-
-![Train Operations](Screenshots/04-train-operations.png)
-
----
-
-## 📚 Documentation
-
-Additional project documentation is available in the repository:
-
-- [DAX Measures](DAX/DAX_measures_corrected.md)
-- [Data Dictionary](Documentation/data_dictionary.md)
-- [Data Model & Analytics Architecture](Documentation/data_model.md)
-
----
-
 ## 🎯 Project Objective
 
 The objective of this project is to demonstrate how a booking-level railway dataset can be transformed into an interactive Business Intelligence solution for analyzing:
